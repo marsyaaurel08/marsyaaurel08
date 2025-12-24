@@ -40,10 +40,10 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:sefiramarsya@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/marsyaaurelo8">
+  <a href="https://github.com/marsyaaurel08">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
